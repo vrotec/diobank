@@ -1,4 +1,4 @@
-// CompanyAccount.ts
+// CompanyAccount.ts é classe que se refere a conta tipo juridica
 import { DioAccount } from './DioAccount'
 
 export class CompanyAccount extends DioAccount {
