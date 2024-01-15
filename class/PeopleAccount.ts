@@ -1,4 +1,4 @@
-// PeopleAccount.ts
+// PeopleAccount.ts é classe que se refere a conta tipo fisica
 import { DioAccount } from './DioAccount'
 
 export class PeopleAccount extends DioAccount {
