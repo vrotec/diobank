@@ -2,6 +2,8 @@
 import { PeopleAccount } from './class/PeopleAccount'
 import { CompanyAccount } from './class/CompanyAccount'
 import { NewAccount } from './class/NewAccount'
+import { DioAccount } from './class/DioAccount';
+
 
 const peopleAccount: PeopleAccount = new PeopleAccount(1, 'vava', 111);
 console.log(peopleAccount); // Exibe os detalhes da conta peopleAccount
