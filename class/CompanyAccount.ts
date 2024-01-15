@@ -6,7 +6,7 @@ export class CompanyAccount extends DioAccount {
     super(name, accountNumber);
   }
 
-  // Método para verificar a conta
+  // Método para verificar as contas
   checkAccount() {
     const status = this.getValidateStatus();
     const balance = this.getBalance();
