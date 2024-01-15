@@ -1,4 +1,4 @@
-// NewAccount.ts
+// NewAccount.ts é classe que se refere a controle de fluxo para novas contas
 import { DioAccount } from './DioAccount'
 
 export class NewAccount extends DioAccount {
