@@ -1,4 +1,4 @@
-// app.ts
+// app.ts aqui é onde visializamos as funcoes em execução usando o console.log
 import { PeopleAccount } from './class/PeopleAccount'
 import { CompanyAccount } from './class/CompanyAccount'
 import { NewAccount } from './class/NewAccount'
