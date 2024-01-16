@@ -1,4 +1,4 @@
-// DioAccount.ts
+// DioAccount.ts é classe que se refere funções de prncipal e importantes das outras dependem dela
 export abstract class DioAccount {
   private name: string;
   private readonly accountNumber: number;
